@@ -141,7 +141,7 @@ module.exports = async function createConfigAsync() {
               },
               {
                 label: 'bilbil',
-                //href: 'https://blog.csdn.net/bwwjsbzdwhy',
+                href: 'https://blog.csdn.net/bwwjsbzdwhy',
               },
               {
                 label: 'CSDN',
@@ -149,7 +149,7 @@ module.exports = async function createConfigAsync() {
               },
               {
                 label: '知乎',
-                //href: 'https://blog.csdn.net/bwwjsbzdwhy',
+                href: 'https://blog.csdn.net/bwwjsbzdwhy',
               },
             ],
           },
