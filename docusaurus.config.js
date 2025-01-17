@@ -8,12 +8,12 @@ module.exports = async function createConfigAsync() {
   /** @type {import('@docusaurus/types').Config} */
   return {
     title: 'sanwhy的小站',
-    url: 'https://disnox.top',
+    url: 'https://sanwhyz-blog-cyan.vercel.app/',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
     organizationName: 'disnox',
     projectName: 'blog',
-    tagline: '星海横流，岁月成碑',
+    tagline: '选择大于努力',
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     themeConfig: {
       image: 'img/logo.png',
@@ -137,19 +137,19 @@ module.exports = async function createConfigAsync() {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/disnox',
+                href: 'https://github.com/donwhy',
               },
               {
                 label: 'bilbil',
-                href: 'https://space.bilibili.com/511798206?spm_id_from=333.1007.0.0',
+                href: '',
               },
               {
                 label: 'CSDN',
-                href: 'https://blog.csdn.net/m0_47339333?spm=1000.2115.3001.5343',
+                href: 'https://blog.csdn.net/bwwjsbzdwhy?type=blog',
               },
               {
                 label: '知乎',
-                href: 'https://www.zhihu.com/people/chui-zi-26-38',
+                href: '',
               },
             ],
           },
