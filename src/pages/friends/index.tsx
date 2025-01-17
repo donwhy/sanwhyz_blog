@@ -10,7 +10,7 @@ import { motion } from 'framer-motion'
 
 const TITLE = '友链'
 const DESCRIPTION = '有很多良友，胜于有很多财富。'
-const ADD_FRIEND_URL = 'https://github.com/disnox/disnox_blog/edit/main/data/friend.ts'
+const ADD_FRIEND_URL = 'https://github.com/donwhy'
 
 function SiteInfo() {
   return (
