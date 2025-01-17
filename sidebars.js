@@ -13,7 +13,7 @@ const sidebars = {
           'skill/linux/Linux_shell',
         ],
     },
-
+/*
     {
       label: 'C 语言',
       type: 'category',
@@ -66,6 +66,7 @@ const sidebars = {
               'skill/C/C_Basic/C_pretreatment',
       ],
     },
+    */
     {
       label: '数据结构',
       type: 'category',
