@@ -66,7 +66,7 @@ sanwhy的个人博客
 ## 📥 Start
 
 ```sh
-git clone https://github.com/disnox/blog.git
+git clone https://github.com/donwhy/sanwhyz_blog.git
 cd blog
 pnpm install
 pnpm start

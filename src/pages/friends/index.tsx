@@ -19,8 +19,8 @@ function SiteInfo() {
         {`{
   // 本站信息
   title: 'sanwhy的小站',
-  description: '星海横流，岁月成碑',
-  avatar: 'https://disnox.top/img/logo.png'
+  description: '选择大于努力',
+
 }`}
       </CodeBlock>
     </div>
