@@ -84,10 +84,7 @@ function Logos() {
       icon: 'logos:google',
       style: { bottom: '25%', right: '5%' },
     },
-    {
-      icon: 'logos:docusaurus',
-      style: { bottom: '1%', left: '1%' },
-    },
+
   ]
 
   return (
@@ -151,7 +148,7 @@ function Name() {
           e.currentTarget.style.setProperty('--positionY', `${bounding.y}px`)
         }}
       >
-        <Translate id="homepage.hero.name">sanwhy</Translate>
+        <Translate id="homepage.hero.name">别问我why</Translate>
       </span>
       <span className={styles.wave}>👋</span>
     </motion.div>
@@ -170,7 +167,7 @@ export default function Hero() {
           variants={variants}
         >
           <Translate id="homepage.hero.text">
-            {`我在这里记录一些知识，以免遗忘，也希望对你有用，请随意浏览～`}
+            {`开源部分项目\n选择大于努力`}
           </Translate>
         </motion.p>
         <motion.div
