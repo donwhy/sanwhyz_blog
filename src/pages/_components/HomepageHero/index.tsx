@@ -170,8 +170,18 @@ export default function Hero() {
             {`开源部分项目\n选择大于努力`}
           </Translate>
         </motion.p>
-        <motion.div
+        <motion.p
           custom={3}
+          initial="hidden"
+          animate="visible"
+          variants={variants}
+        >
+          <Translate id="homepage.hero.text">
+            {`开源部分项目\n选择大于努力`}
+          </Translate>
+        </motion.p>
+        <motion.div
+          custom={4}
           initial="hidden"
           animate="visible"
           variants={variants}
@@ -181,7 +191,7 @@ export default function Hero() {
 
         <motion.div
           className={styles.buttonGroup}
-          custom={4}
+          custom={5}
           initial="hidden"
           animate="visible"
           variants={variants}
