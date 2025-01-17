@@ -167,7 +167,7 @@ export default function Hero() {
           variants={variants}
         >
           <Translate id="homepage.hero.text">
-            {`开源部分项目\n选择大于努力`}
+            {`开源部分项目`}
           </Translate>
         </motion.p>
         <motion.p

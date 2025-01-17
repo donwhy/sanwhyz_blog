@@ -145,7 +145,7 @@ module.exports = async function createConfigAsync() {
               },
               {
                 label: 'CSDN',
-                href: 'https://blog.csdn.net/bwwjsbzdwhy?type=blog',
+                href: 'https://blog.csdn.net/bwwjsbzdwhy?ops_request_misc=%7B%22request%5Fid%22%3A%220b0ab100ac33f9cf1c9545799f785876%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=0b0ab100ac33f9cf1c9545799f785876&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-1-160509208-null-null.nonecase&utm_term=%E6%88%91%E4%B9%9F%E6%83%B3%E7%9F%A5%E9%81%93why&spm=1018.2226.3001.4351',
               },
               {
                 label: '知乎',
@@ -221,13 +221,13 @@ module.exports = async function createConfigAsync() {
         playgroundPosition: 'top',
       },
       socials: {
-        github: 'https://github.com/disnox',
-        blibli: 'https://space.bilibili.com/511798206?spm_id_from=333.1007.0.0',
-        zhihu: 'https://www.zhihu.com/people/chui-zi-26-38',
-        csdn: 'https://blog.csdn.net/m0_47339333?spm=1000.2115.3001.5343',
-        qq: 'https://www.helloimg.com/image/ZV1U6u',
-        wx: 'http://n0i.cn/1DmzeU',
-        cloudmusic: 'https://music.163.com/#/user/home?id=3906202648',
+        github: 'https://github.com/donwhy',
+        //blibli: 'https://space.bilibili.com/511798206?spm_id_from=333.1007.0.0',
+        //zhihu: 'https://www.zhihu.com/people/chui-zi-26-38',
+        csdn: 'https://blog.csdn.net/bwwjsbzdwhy?ops_request_misc=%7B%22request%5Fid%22%3A%220b0ab100ac33f9cf1c9545799f785876%22%2C%22scm%22%3A%2220140713.130064515..%22%7D&request_id=0b0ab100ac33f9cf1c9545799f785876&biz_id=206&utm_medium=distribute.pc_search_result.none-task-user-null-1-160509208-null-null.nonecase&utm_term=%E6%88%91%E4%B9%9F%E6%83%B3%E7%9F%A5%E9%81%93why&spm=1018.2226.3001.4351',
+        //qq: 'https://www.helloimg.com/image/ZV1U6u',
+        //wx: 'http://n0i.cn/1DmzeU',
+        //cloudmusic: 'https://music.163.com/#/user/home?id=3906202648',
       },
     },
     headTags: [
