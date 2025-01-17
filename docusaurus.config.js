@@ -276,8 +276,8 @@ module.exports = async function createConfigAsync() {
         {
           path: 'blog',
           editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-            `https://github.com/disnox/blog/edit/main/${blogDirPath}/${blogPath}`,
-          //  'https://github.com/donwhy',
+          //  `https://github.com/disnox/blog/edit/main/${blogDirPath}/${blogPath}`,
+            'https://github.com/donwhy',
           editLocalizedFiles: false,
           blogDescription: 'sanwhy的个人博客',
           blogSidebarCount: 10,
