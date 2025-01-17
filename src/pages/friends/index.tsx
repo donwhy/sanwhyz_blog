@@ -18,7 +18,7 @@ function SiteInfo() {
       <CodeBlock language="jsx">
         {`{
   // 本站信息
-  title: '尚宇的小站',
+  title: 'sanwhy的小站',
   description: '星海横流，岁月成碑',
   avatar: 'https://disnox.top/img/logo.png'
 }`}
