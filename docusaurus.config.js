@@ -250,7 +250,13 @@ module.exports = async function createConfigAsync() {
             remarkPlugins: [(await import('remark-math')).default],
             rehypePlugins: [(await import('rehype-katex')).default],
           },
-          blog: false,
+          blog: {
+            path: 'blog',
+            sidebarPath: 'sidebars.js',
+            remarkPlugins: [(await import('remark-math')).default],
+            rehypePlugins: [(await import('rehype-katex')).default],
+          },
+          /* blog: false */,
           theme: {
             customCss: [require.resolve('./src/css/custom.scss')],
           },
