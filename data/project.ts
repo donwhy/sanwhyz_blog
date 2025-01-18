@@ -44,22 +44,22 @@ export const projects: Project[] = [
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
   }, */
-  {
+/*   {
     title: '线程池示例（内核链表）',
     description: '使用内核链表搭建的线程池示例',
     website: 'https://www.disnox.top/thread_pool2',
     source: 'https://github.com/disnox/thread_pool',
     tags: ['opensource', 'design', 'favorite'],
     type: '🌊Example',
-  },
-  {
+  }, */
+/*   {
     title: '线程池示例（单向链表）',
     description: '使用单向链表搭建的线程池示例',
     website: 'https://www.disnox.top/thread_pool1',
     source: 'https://github.com/disnox/pool',
     tags: ['opensource', 'design', 'favorite'],
     type: '🌊Example',
-  },
+  }, */
   {
     title: 'sanwhy的小站',
     description: '（强烈推荐）参考sanwhy的开源项目实现的个人博客（基于Docusaurus v2 静态网站生成器）',
