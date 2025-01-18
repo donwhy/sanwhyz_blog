@@ -274,7 +274,7 @@ module.exports = async function createConfigAsync() {
       [
         path.resolve(__dirname, './src/plugin/plugin-content-blog'),
         {
-          id: 'custom-blog', // 为该插件添加一个唯一的 ID
+          
           path: 'blog',
           editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           //  `https://github.com/disnox/blog/edit/main/${blogDirPath}/${blogPath}`,
@@ -292,6 +292,12 @@ module.exports = async function createConfigAsync() {
             title: '别问我why',
             copyright: `Copyright © ${new Date().getFullYear()} 别问我why Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
           },
+          remarkPlugins: [
+            (await import('remark-math')).default, // 启用remark-math解析数学公式
+          ],
+          rehypePlugins: [
+            (await import('rehype-katex')).default, // 启用rehype-katex渲染数学公式
+          ],
         },
       ],
       [
