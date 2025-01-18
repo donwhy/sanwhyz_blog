@@ -17,7 +17,7 @@ export const projects: Project[] = [
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
   }, */
-  {
+/*   {
     title: '自助点餐系统',
     description: '基于 Linux 和 C语言 的自助点餐系统',
     preview: '/img/project/self.png',
@@ -25,8 +25,8 @@ export const projects: Project[] = [
     source: 'https://github.com/disnox/self_service_order',
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
-  },
-  {
+  }, */
+/*   {
     title: '文件服务器',
     description: '基于 Linux网络编程 和 C语言 的文件服务器',
     preview: '/img/project/server.png',
@@ -34,8 +34,8 @@ export const projects: Project[] = [
     source: 'https://github.com/disnox/file_server',
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
-  },
-  {
+  }, */
+/*   {
     title: 'STM32G431/474 核心板',
     description: '基于 STM32G4 的最小系统，带LCD、RS485、CAN接口',
     preview: '/img/project/g431g474.png',
@@ -43,7 +43,7 @@ export const projects: Project[] = [
     source: 'https://github.com/disnox/disnox_g431',
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
-  },
+  }, */
   {
     title: '线程池示例（内核链表）',
     description: '使用内核链表搭建的线程池示例',
