@@ -250,13 +250,7 @@ module.exports = async function createConfigAsync() {
             remarkPlugins: [(await import('remark-math')).default],
             rehypePlugins: [(await import('rehype-katex')).default],
           },
-          blog: {
-            id: 'default',
-            path: 'blog',
-            remarkPlugins: [(await import('remark-math')).default],
-            rehypePlugins: [(await import('rehype-katex')).default],
-          },
-          /* blog: false ,*/
+          blog: false ,
           theme: {
             customCss: [require.resolve('./src/css/custom.scss')],
           },
@@ -280,6 +274,7 @@ module.exports = async function createConfigAsync() {
       [
         path.resolve(__dirname, './src/plugin/plugin-content-blog'),
         {
+          id: 'custom-blog', // 为该插件添加一个唯一的 ID
           path: 'blog',
           editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           //  `https://github.com/disnox/blog/edit/main/${blogDirPath}/${blogPath}`,
