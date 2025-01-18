@@ -251,6 +251,7 @@ module.exports = async function createConfigAsync() {
             rehypePlugins: [(await import('rehype-katex')).default],
           },
           blog: {
+            id: 'default',
             path: 'blog',
             remarkPlugins: [(await import('remark-math')).default],
             rehypePlugins: [(await import('rehype-katex')).default],
