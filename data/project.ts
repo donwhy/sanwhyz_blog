@@ -61,8 +61,8 @@ export const projects: Project[] = [
     type: '🌊Example',
   }, */
   {
-    title: 'sanwhy的小站',
-    description: '（强烈推荐）参考sanwhy的开源项目实现的个人博客（基于Docusaurus v2 静态网站生成器）',
+    title: '别问我why的小站',
+    description: '（强烈推荐）参考别问我why的开源项目实现的个人博客（基于Docusaurus v2 静态网站生成器）',
     preview: '/img/project/blog.png',
     website: 'https://disnox.top',
     source: 'https://github.com/disnox/disnox_blog',

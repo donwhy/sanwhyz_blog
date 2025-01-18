@@ -18,7 +18,7 @@ function SiteInfo() {
       <CodeBlock language="jsx">
         {`{
   // 本站信息
-  title: 'sanwhy的小站',
+  title: '别问我why的小站',
   description: '选择大于努力',
 
 }`}

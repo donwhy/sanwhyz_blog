@@ -1,6 +1,6 @@
 {
-  "playground.codesandbox.description": {
-    "message": "CodeSandbox is a popular playground solution. Runs Docusaurus in a remote Docker container."
+  "playground.code别问我dbox.description": {
+    "message": "Code别问我dbox is a popular playground solution. Runs Docusaurus in a remote Docker container."
   },
   "playground.stackblitz.description": {
     "message": "StackBlitz uses a novel {webContainersLink} technology to run Docusaurus directly in your browser."
@@ -12,8 +12,8 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "sanwhy": {
-    "message": "sanwhy",
+  "别问我why": {
+    "message": "别问我why",
     "description": "my name"
   },
   "homepage.hero.text": {

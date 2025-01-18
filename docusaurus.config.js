@@ -7,7 +7,7 @@ const announcementBarContent = `<span>🌟新入站必读 <a href='/test'>小站
 module.exports = async function createConfigAsync() {
   /** @type {import('@docusaurus/types').Config} */
   return {
-    title: 'sanwhy的小站',
+    title: '别问我why的小站',
     url: 'https://sanwhyz-blog-cyan.vercel.app/',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
@@ -24,7 +24,7 @@ module.exports = async function createConfigAsync() {
       metadata: [
         {
           name: 'keywords',
-          content: 'sanwhy, disnox',
+          content: '别问我why, disnox',
         },
         {
           name: 'keywords',
@@ -42,7 +42,7 @@ module.exports = async function createConfigAsync() {
       },
       navbar: {
         logo: {
-          alt: 'sanwhy',
+          alt: '别问我why',
           src: 'img/logo.webp',
           srcDark: 'img/logo.webp',
         },
@@ -172,8 +172,8 @@ module.exports = async function createConfigAsync() {
             ],
           },
         ],
-        // copyright: `<p><a href="http://beian.miit.gov.cn/" >${beian}</a></p><p>Copyright © 2020 - PRESENT sanwhy Built with Docusaurus.</p>`,
-        copyright: `本站所有内容遵循<a href="https://creativecommons.org/licenses/by/4.0/deed.zh" >${beian}</a>开源协议，仅限非商业性使用，转载请注明出处</p><p>Copyright © 2022 - PRESENT sanwhy Built with Docusaurus.</p>`,
+        // copyright: `<p><a href="http://beian.miit.gov.cn/" >${beian}</a></p><p>Copyright © 2020 - PRESENT 别问我why Built with Docusaurus.</p>`,
+        copyright: `本站所有内容遵循<a href="https://creativecommons.org/licenses/by/4.0/deed.zh" >${beian}</a>开源协议，仅限非商业性使用，转载请注明出处</p><p>Copyright © 2022 - PRESENT 别问我why Built with Docusaurus.</p>`,
       },
       prism: {
         theme: require('prism-react-renderer/themes/vsLight'),
@@ -235,7 +235,7 @@ module.exports = async function createConfigAsync() {
         tagName: 'meta',
         attributes: {
           name: 'description',
-          content: 'sanwhy的个人博客',
+          content: '别问我why的个人博客',
         },
       },
     ],
@@ -279,7 +279,7 @@ module.exports = async function createConfigAsync() {
           //  `https://github.com/disnox/blog/edit/main/${blogDirPath}/${blogPath}`,
             'https://github.com/donwhy',
           editLocalizedFiles: false,
-          blogDescription: 'sanwhy的个人博客',
+          blogDescription: '别问我why的个人博客',
           blogSidebarCount: 10,
           blogSidebarTitle: 'Blogs',
           postsPerPage: 10,
@@ -288,8 +288,8 @@ module.exports = async function createConfigAsync() {
             defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
           feedOptions: {
             type: 'all',
-            title: 'sanwhy',
-            copyright: `Copyright © ${new Date().getFullYear()} sanwhy Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
+            title: '别问我why',
+            copyright: `Copyright © ${new Date().getFullYear()} 别问我why Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
           },
         },
       ],
