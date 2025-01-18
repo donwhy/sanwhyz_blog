@@ -8,7 +8,7 @@ export const projects: Project[] = [
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
   },
-  {
+/*   {
     title: '客6666666666系统',
     description: '采用 Linux 内核链表搭建的C语言系统，满足大部分需求，学习使用',
     preview: '/img/project/kernel_list.png',
@@ -16,7 +16,7 @@ export const projects: Project[] = [
     source: 'https://github.com/disnox/ticket_system',
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
-  },
+  }, */
   {
     title: '自助点餐系统',
     description: '基于 Linux 和 C语言 的自助点餐系统',
