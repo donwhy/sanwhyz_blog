@@ -11,7 +11,7 @@ module.exports = async function createConfigAsync() {
     url: 'https://sanwhyz-blog-cyan.vercel.app/',
     baseUrl: '/',
     favicon: 'img/favicon.ico',
-    organizationName: 'disnox',
+    organizationName: 'donwhy',
     projectName: 'blog',
     tagline: '选择大于努力',
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
