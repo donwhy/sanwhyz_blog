@@ -9,8 +9,7 @@ const sidebars = {
           type: 'generated-index',
         },
         items: [
-          'blog/project/1. 永磁同步电机',
-          'skill/linux/Linux_shell',
+        /*   'blog/project/1. 永磁同步电机', */
         ],
     },
     {
@@ -20,11 +19,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-          'skill/C/FILE_IO/file',
-          'skill/C/FILE_IO/system_io',
-          'skill/C/FILE_IO/standard_io',
-          'skill/C/FILE_IO/stat',
-          'skill/C/FILE_IO/dir',
+
           ]        
      },
      {
