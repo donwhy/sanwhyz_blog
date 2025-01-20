@@ -199,7 +199,7 @@ module.exports = async function createConfigAsync() {
       algolia: {
         appId: ' ',
         apiKey: ' ',
-        indexName: 'disnox',
+        indexName: 'donwhy',
       },
       zoom: {
         selector: '.markdown :not(em) > img',
@@ -210,7 +210,7 @@ module.exports = async function createConfigAsync() {
         config: {},
       },
       giscus: {
-        repo: 'disnox/disnox_blog',
+        repo: 'donwhy/donwhy_blog',
         repoId: 'R_kgDOIS7BTg',
         category: 'General',
         categoryId: 'DIC_kwDOIS7BTs4CSN3O',
