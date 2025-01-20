@@ -3,7 +3,6 @@ const sidebars = {
   skill: [
     'skill/introduction',
     
-    
     {
         label: 'FOC',
         type: 'category',
@@ -11,7 +10,7 @@ const sidebars = {
           type: 'generated-index',
         },
         items: [
-          'blog/project',
+          'skill/motor/pmsm/pmsm_motor',
         ],
     },
     {
@@ -109,6 +108,9 @@ const sidebars = {
       ],
     },
   ],
+
+
+
   tools: [
     'tools/introduction',
     'tools/everything-quick-search-local-files',
@@ -116,6 +118,8 @@ const sidebars = {
     'tools/windows-terminal-beautify',
     'tools/vscode-config',
   ],
+
+
   project_group: [
     'project_group/introduction',
     {
