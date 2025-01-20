@@ -180,8 +180,19 @@ export default function Hero() {
             {`选择大于努力`}
           </Translate>
         </motion.p>
-        <motion.div
+        <motion.p
           custom={4}
+          initial="hidden"
+          animate="visible"
+          variants={variants}
+        >
+          <Translate id="homepage.hero.text">
+            {`DSP+FOC+FPGA+Linux`}
+
+          </Translate>
+        </motion.p>
+        <motion.div
+          custom={5}
           initial="hidden"
           animate="visible"
           variants={variants}
