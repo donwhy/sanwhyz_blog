@@ -60,7 +60,7 @@ export const projects: Project[] = [
     tags: ['opensource', 'design', 'favorite'],
     type: '🌊Example',
   }, */
-  {
+/*   {
     title: '别问我why的小站',
     description: '（强烈推荐）参考别问我why的开源项目实现的个人博客（基于Docusaurus v2 静态网站生成器）',
     preview: '/img/project/blog.png',
@@ -68,7 +68,7 @@ export const projects: Project[] = [
     source: 'https://github.com/disnox/disnox_blog',
     tags: ['opensource', 'design', 'favorite'],
     type: '📷Copy',
-  },
+  }, */
 ]
 
 export type Tag = {
