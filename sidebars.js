@@ -30,7 +30,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-        'skill/DSP/not',
+        'skill/DSP/NOT',
           ]        
      },
      {
