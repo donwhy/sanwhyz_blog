@@ -11,7 +11,7 @@ const sidebars = {
           type: 'generated-index',
         },
         items: [
-/*           'blog/project/PMSM', */
+          'blog/project',
         ],
     },
     {
