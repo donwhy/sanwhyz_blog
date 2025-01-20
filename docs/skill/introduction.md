@@ -22,14 +22,14 @@ keywords:
 
 - 🐻 [FOC](https://sanwhyz-blog-cyan.vercel.app/docs/category/foc)
 
-- 🎃 [C 语言](https://www.disnox.top/docs/category/c-%E8%AF%AD%E8%A8%80)
+- 🎃 [DSP](https://sanwhyz-blog-cyan.vercel.app/docs/category/dsp)
 
-- 🚀 [数据结构](https://www.disnox.top/docs/category/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- 🚀 [FFT](https://sanwhyz-blog-cyan.vercel.app/docs/category/fft)
 
-- 🌋 [IO编程技术](https://www.disnox.top/docs/category/io-%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF)
+- 🌋 [FPGA](https://sanwhyz-blog-cyan.vercel.app/docs/category/fpga)
 
-- 🌁 [Linux系统编程](https://www.disnox.top/docs/category/linux-%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B)
+- 🌁 [Linux](https://sanwhyz-blog-cyan.vercel.app/docs/category/liunx)
 
-- 😺 [硬件基础](https://www.disnox.top/docs/category/%E7%A1%AC%E4%BB%B6%E5%9F%BA%E7%A1%80)
+- 😺 [电机控制](https://sanwhyz-blog-cyan.vercel.app/docs/category/%E7%94%B5%E6%9C%BA%E6%8E%A7%E5%88%B6)
 
 **做到即查即用，能复制粘贴解决的，就绝不百度。**
