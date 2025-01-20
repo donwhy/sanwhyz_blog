@@ -9,7 +9,7 @@ const sidebars = {
           type: 'generated-index',
         },
         items: [
-          'skill/linux/Linux_introduction',
+          'blog/project/1. 永磁同步电机',
           'skill/linux/Linux_shell',
         ],
     },
