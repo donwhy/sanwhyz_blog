@@ -2,15 +2,15 @@
   "name": "blog",
   "version": "3.0.0",
   "author": {
-    "url": "https://github.com/disnox",
-    "email": "hi@disnox.cn",
-    "name": "disnox"
+    "url": "https://github.com/donwhy",
+    "email": "y10203914@163.com",
+    "name": "donwhy"
   },
   "repository": {
-    "url": "https://github.com/disnox/blog",
+    "url": "https://github.com/donwhy/sanwhyz_blog",
     "type": "git"
   },
-  "homepage": "https://disnox.top",
+  "homepage": "https://sanwhyz-blog-cyan.vercel.app/",
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",
