@@ -187,7 +187,7 @@ export default function Hero() {
           variants={variants}
         >
           <Translate id="homepage.hero.text">
-            {`DSP+FOC+FPGA+Linux`}
+            {`硬件设计+FOC+DSP+Linux+FPGA`}
 
           </Translate>
         </motion.p>

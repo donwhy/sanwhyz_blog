@@ -3,7 +3,7 @@ const sidebars = {
   skill: [
     'skill/introduction',
     {
-        label: 'Linux',
+        label: 'FOC',
         type: 'category',
         link: {
           type: 'generated-index',
@@ -13,6 +13,62 @@ const sidebars = {
           'skill/linux/Linux_shell',
         ],
     },
+    {
+      label: 'FFT',
+      type: 'category',
+      link: {
+      type: 'generated-index',
+      },
+      items: [
+          'skill/C/FILE_IO/file',
+          'skill/C/FILE_IO/system_io',
+          'skill/C/FILE_IO/standard_io',
+          'skill/C/FILE_IO/stat',
+          'skill/C/FILE_IO/dir',
+          ]        
+     },
+     {
+      label: 'DSP',
+      type: 'category',
+      link: {
+      type: 'generated-index',
+      },
+      items: [
+          'skill/C/FILE_IO/file',
+          'skill/C/FILE_IO/system_io',
+          'skill/C/FILE_IO/standard_io',
+          'skill/C/FILE_IO/stat',
+          'skill/C/FILE_IO/dir',
+          ]        
+     },
+     {
+      label: 'Liunx',
+      type: 'category',
+      link: {
+      type: 'generated-index',
+      },
+      items: [
+          'skill/C/FILE_IO/file',
+          'skill/C/FILE_IO/system_io',
+          'skill/C/FILE_IO/standard_io',
+          'skill/C/FILE_IO/stat',
+          'skill/C/FILE_IO/dir',
+          ]        
+     },
+     {
+      label: 'FPGA',
+      type: 'category',
+      link: {
+      type: 'generated-index',
+      },
+      items: [
+          'skill/C/FILE_IO/file',
+          'skill/C/FILE_IO/system_io',
+          'skill/C/FILE_IO/standard_io',
+          'skill/C/FILE_IO/stat',
+          'skill/C/FILE_IO/dir',
+          ]        
+     },
 /*
     {
       label: 'C 语言',
@@ -86,20 +142,7 @@ const sidebars = {
           'skill/C/C_Data_Structure/binary_tree',
           ]        
      },*/
-     {
-      label: 'IO 编程技术',
-      type: 'category',
-      link: {
-      type: 'generated-index',
-      },
-      items: [
-          'skill/C/FILE_IO/file',
-          'skill/C/FILE_IO/system_io',
-          'skill/C/FILE_IO/standard_io',
-          'skill/C/FILE_IO/stat',
-          'skill/C/FILE_IO/dir',
-          ]        
-     },
+
 /*      {
       label: 'Linux 系统编程',
       type: 'category',
