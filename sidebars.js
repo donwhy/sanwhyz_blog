@@ -9,7 +9,7 @@ const sidebars = {
           type: 'generated-index',
         },
         items: [
-        /*   'blog/project/1. 永磁同步电机', */
+          'blog/project/PMSM',
         ],
     },
     {
