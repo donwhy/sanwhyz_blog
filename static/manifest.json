@@ -8,8 +8,8 @@
   "start_url": "./index.html",
   "related_applications": [
     {
-      "platform": "webapp",
-      "url": "https://disnox.cn/manifest.json"
+/*       "platform": "webapp",
+      "url": "https://disnox.cn/manifest.json" */
     }
   ],
   "icons": [
