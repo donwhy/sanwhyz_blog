@@ -20,7 +20,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-
+        'skill/motor/pmsm/pmsm_motor',
           ]        
      },
      {
@@ -30,7 +30,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-
+        'skill/motor/pmsm/pmsm_motor',
           ]        
      },
      {
@@ -40,7 +40,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-
+        'skill/motor/pmsm/pmsm_motor',
           ]        
      },
      {
@@ -50,7 +50,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-
+        'skill/motor/pmsm/pmsm_motor',
           ]        
      },
 
@@ -80,6 +80,7 @@ const sidebars = {
           type: 'generated-index',
           },
           items: [
+            'skill/motor/pmsm/pmsm_motor',
               ]        
          },
       ]
