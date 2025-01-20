@@ -1,10 +1,10 @@
-disnox:
+donwhy:
   name: 📺别问我why
   title: 嵌入式 / 学生
   url: https://github.com/donwhy
   image_url: /img/logo.webp
-donwhy:
-  name: donwhy
+sanwhy:
+  name: sanwhy
   title: 嵌入式 / 学生
-  url: https://github.com/disnox
+  url: https://github.com/donwhy
   image_url: /img/logo.webp
