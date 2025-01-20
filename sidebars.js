@@ -30,7 +30,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-        'skill/motor/pmsm/pmsm_motor',
+        'skill/dsp/not',
           ]        
      },
      {
