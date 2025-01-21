@@ -20,7 +20,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-        'skill/motor/pmsm/pmsm_motor',
+        'skill/FFT/NOT',
           ]        
      },
      {
@@ -50,7 +50,7 @@ const sidebars = {
       type: 'generated-index',
       },
       items: [
-        'skill/motor/pmsm/pmsm_motor',
+        'skill/FPGA/NOT',
           ]        
      },
 
