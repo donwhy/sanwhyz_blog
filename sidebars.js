@@ -53,7 +53,16 @@ const sidebars = {
         'skill/FPGA/NOT',
           ]        
      },
-
+    {
+      label: '边缘计算',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+        'skill/motor/pmsm/pmsm_motor',
+      ],
+    },
     {
       label: '硬件基础',
       type: 'category',
