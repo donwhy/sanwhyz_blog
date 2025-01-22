@@ -1,5 +1,5 @@
 export const projects: Project[] = [
-  {
+/*   {
     title: '项目集',
     description: '我的项目集合，涵盖了大学期间所做的项目',
     preview: '/img/project/xmu.png',
@@ -7,7 +7,7 @@ export const projects: Project[] = [
     source: 'https://kdocs.cn/l/cqH6nnUP94mm',
     tags: ['opensource', 'design', 'favorite'],
     type: '🤖Project',
-  },
+  }, */
 /*   {
     title: '客6666666666系统',
     description: '采用 Linux 内核链表搭建的C语言系统，满足大部分需求，学习使用',
