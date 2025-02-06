@@ -224,7 +224,7 @@ export default function Hero() {
         >
           <div className={styles.outer}>
             <div className={styles.gradient} />
-            <a className={styles.button} href={'./about'}>
+            <a className={styles.button} href={'./mx'}>
               <Translate id="hompage.hero.introduce">理想(春秋大梦)</Translate>
             </a>
           </div>
