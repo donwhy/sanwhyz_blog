@@ -191,7 +191,7 @@ export default function Hero() {
 
           </Translate>
         </motion.p>
-{/*         <motion.div
+        <motion.div
           custom={5}
           initial="hidden"
           animate="visible"
@@ -213,7 +213,31 @@ export default function Hero() {
               <Translate id="hompage.hero.introduce">自我介绍</Translate>
             </a>
           </div>
-        </motion.div> */}
+        </motion.div>
+
+        <motion.div
+          custom={6}
+          initial="hidden"
+          animate="visible"
+          variants={variants}
+        >
+          <SocialLinks />
+        </motion.div>
+
+        <motion.div
+          className={styles.buttonGroup}
+          custom={6}
+          initial="hidden"
+          animate="visible"
+          variants={variants}
+        >
+          <div className={styles.outer}>
+            <div className={styles.gradient} />
+            <a className={styles.button} href={'./about'}>
+              <Translate id="hompage.hero.introduce">自我介绍</Translate>
+            </a>
+          </div>
+        </motion.div>
       </div>
       <Background />
     </motion.div>
