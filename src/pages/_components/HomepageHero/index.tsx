@@ -213,6 +213,12 @@ export default function Hero() {
               <Translate id="hompage.hero.introduce">自我介绍</Translate>
             </a>
           </div>
+          <div className={styles.outer}>
+            <div className={styles.gradient} />
+            <a className={styles.button} href={'./about'}>
+              <Translate id="hompage.hero.introduce1">自我介绍</Translate>
+            </a>
+          </div>
         </motion.div>
       </div>
       <Background />
