@@ -191,7 +191,7 @@ export default function Hero() {
 
           </Translate>
         </motion.p>
-        <motion.div
+{/*         <motion.div
           custom={5}
           initial="hidden"
           animate="visible"
@@ -213,7 +213,7 @@ export default function Hero() {
               <Translate id="hompage.hero.introduce">自我介绍</Translate>
             </a>
           </div>
-        </motion.div>
+        </motion.div> */}
 
         <motion.div
           custom={7}
