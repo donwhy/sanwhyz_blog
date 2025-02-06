@@ -214,20 +214,6 @@ export default function Hero() {
             </a>
           </div>
         </motion.div>
-        <motion.div
-          className={styles.buttonGroup}
-          custom={6}
-          initial="hidden"
-          animate="visible"
-          variants={variants}
-        >
-          <div className={styles.outer}>
-            <div className={styles.gradient} />
-            <a className={styles.button} href={'./about'}>
-              <Translate id="hompage.hero.introduce">自绍</Translate>
-            </a>
-          </div>
-        </motion.div>
       </div>
       <Background />
     </motion.div>
