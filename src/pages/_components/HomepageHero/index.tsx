@@ -214,7 +214,7 @@ export default function Hero() {
             </a>
           </div>
         </motion.div>
-        
+
         <motion.div
           className={styles.buttonGroup}
           custom={6}
@@ -225,7 +225,7 @@ export default function Hero() {
           <div className={styles.outer}>
             <div className={styles.gradient} />
             <a className={styles.button} href={'./about'}>
-              <Translate id="hompage.hero.introduce">自我介绍</Translate>
+              <Translate id="hompage.hero.introduce">理想(春秋大梦)</Translate>
             </a>
           </div>
         </motion.div>
