@@ -214,16 +214,7 @@ export default function Hero() {
             </a>
           </div>
         </motion.div>
-
-        <motion.div
-          custom={6}
-          initial="hidden"
-          animate="visible"
-          variants={variants}
-        >
-          <SocialLinks />
-        </motion.div>
-
+        
         <motion.div
           className={styles.buttonGroup}
           custom={6}
